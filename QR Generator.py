@@ -20,4 +20,4 @@ class QrGenerator(object):
 		img.show()
 
 if __name__ == "__main__" :
-	QrGenerator(input("Enter text or link: "))
+	QrGenerator(input("Enter text or link:"))
